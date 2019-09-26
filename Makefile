@@ -1,8 +1,8 @@
 SOURCES = $(wildcard *.lua)
 SOURCES += $(wildcard lib/*.lua)
 
-README.md: $(SOURCES) wtf_redis.js
-	-robocopy . //fivem.sszt.ml/server-data/resources/[wtf]/wtf_redis /MIR /FFT /Z /XA:H /W:5 \
+README.md: $(SOURCES) tesla_redis.js
+	-robocopy . //fivem.sszt.ml/server-data/resources/[boostvolt]/tesla_redis /MIR /FFT /Z /XA:H /W:5 \
 		/XD .git \
 			redis
 	copy /b README.md +,,
