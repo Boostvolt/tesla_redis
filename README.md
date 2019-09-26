@@ -13,7 +13,7 @@ Redis client for FiveM
 
 ## Current State
 
-wtf_redis supports imperitive synchronous and / async calls (through memoization) and doesn't require a server script for your resource. Client to server communication is handled by wtf_redis, so all you need to do is retrieve and store your data.
+tesla_redis supports imperitive synchronous and / async calls (through memoization) and doesn't require a server script for your resource. Client to server communication is handled by wtf_redis, so all you need to do is retrieve and store your data.
     
 **No callback hell or server/client events!**
     
