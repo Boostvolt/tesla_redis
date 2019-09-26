@@ -1,4 +1,4 @@
-# wtf_redis
+# tesla_redis
 Redis client for FiveM
 
 ## Goals
