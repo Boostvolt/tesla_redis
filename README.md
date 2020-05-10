@@ -1,4 +1,4 @@
-# tesla-redis
+# tesla_redis
 Redis client for FiveM
 ![alt text](https://user-images.githubusercontent.com/79330/56089925-3a985580-5e4f-11e9-9ff3-eb9430e0fbaf.jpg)
 ## Goals
