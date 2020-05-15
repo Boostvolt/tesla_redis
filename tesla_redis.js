@@ -1367,7 +1367,7 @@ Redis.prototype.silentEmit = function (eventName) {
         return this.emit.apply(this, arguments);
     }
     if (error && error instanceof Error) {
-        console.error('[ioredis] Unhandled error event:', error.stack);
+        
     }
     return false;
 };
